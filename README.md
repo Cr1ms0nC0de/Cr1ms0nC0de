@@ -14,5 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-theme: dark
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cr1ms0nC0de)](https://github.com/anuraghazra/github-readme-stats)
+# 💫 About Me:
+I do stuff
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cr1ms0nC0de&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cr1ms0nC0de&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1ms0nC0de&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
